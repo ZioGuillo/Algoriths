@@ -1,6 +1,6 @@
 #The 10 must-know algorithms and data structures for a software engineer
 
-![img01](#)
+![img01](https://github.com/ZioGuillo/Algoriths/blob/master/img/img01.jpeg)
 
 ...
 
@@ -12,7 +12,7 @@ This is what I will recommend [IDeserve](http://www.ideserve.co.in/)
 It's a cool platform where you can visualize the algorithms and data structures within it.
 I feel it is largest source for algorithms which you can visualize. Its pretty cool to see algorithms being executed and animated on the fly.
 
-![img02](#)
+![img02](https://github.com/ZioGuillo/Algoriths/blob/master/img/img02.jpeg)
 
 Coming back to categorizing algorithms into 10 broad categories...phew...now this will take time.
 
