@@ -2,12 +2,13 @@
 
 ![img01](https://github.com/ZioGuillo/Algoriths/blob/master/img/img01.jpeg)
 
-...
+***
 
 10! In current competitive world, this question should be renamed to 100 must-know algorithms. Still, lets try to categorize the algorithms in 10 broad categories.
 
 But first, learning such a small subset(only 10!) will do no good. The more you learn, the more you will stand out from the crowd. Learning and visualizing algorithms will change the way you tackle real life situation, you will always start looking for an optimized way to do things. And that's great, that's what smart people are - LAZY, yes, they always try to do more work with minimal effort and that's optimization.
 Start developing algorithmic thinking by visualizing algorithms.
+
 This is what I will recommend [IDeserve](http://www.ideserve.co.in/)
 It's a cool platform where you can visualize the algorithms and data structures within it.
 I feel it is largest source for algorithms which you can visualize. Its pretty cool to see algorithms being executed and animated on the fly.
