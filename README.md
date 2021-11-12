@@ -1,4 +1,4 @@
-#The 10 must-know algorithms and data structures for a software engineer
+# The 10 must-know algorithms and data structures for a software engineer
 
 ![img01](https://github.com/ZioGuillo/Algoriths/blob/master/img/img01.jpeg)
 
@@ -16,15 +16,21 @@ I feel it is largest source for algorithms which you can visualize. Its pretty c
 
 Coming back to categorizing algorithms into 10 broad categories...phew...now this will take time.
 
-##1: Sorting Algorithms
+## 1: Sorting Algorithms
 Sorting Algorithm - [Sorting Algorithm - Bubble Sort](http://www.ideserve.co.in/learn/bubble-sort)
+
 Sorting Algorithm - [Sorting Algorithm - Selection Sort](http://www.ideserve.co.in/learn/selection-sort)
+
 Sorting Algorithm - [Sorting Algorithm - Insertion Sort](http://www.ideserve.co.in/learn/insertion-sort)
+
 Sorting Algorithm - [Sorting Algorithm - Heap Sort](http://www.ideserve.co.in/learn/heap-sort)
+
 Sorting Algorithm - [Sorting Algorithm - Merge Sort](http://www.ideserve.co.in/learn/merge-sort)
+
 Pancake Sorting [Pancake Sorting](http://www.ideserve.co.in/learn/pancake-sorting)
 
-##2: Algorithms on Linked Lists
+
+## 2: Algorithms on Linked Lists
 [Reverse a Linked List - Iterative](http://www.ideserve.co.in/learn/reverse-a-linked-list-iterative)
 [Reverse a Linked List - Recursive](http://www.ideserve.co.in/learn/reverse-a-linked-list-recursive)
 [Merge two sorted linked lists](http://www.ideserve.co.in/learn/merge-two-sorted-linked-lists)
@@ -35,7 +41,7 @@ Pancake Sorting [Pancake Sorting](http://www.ideserve.co.in/learn/pancake-sortin
 [Convert a sorted Doubly Linked List to Balanced Binary Search Tree](http://www.ideserve.co.in/learn/convert-a-sorted-doubly-linked-list-to-balanced-binary-search-tree-bst)
 [LRU Cache Implementation](http://www.ideserve.co.in/learn/lru-cache-implementation)
 
-##3: Algorithms on  Arrays
+## 3: Algorithms on  Arrays
 
 [Count frequencies of array elements in range 1 to n](http://www.ideserve.co.in/learn/count-frequencies-of-array-elements)
 [Find all permutations of a String](http://www.ideserve.co.in/learn/all-permutations-of-a-string)
