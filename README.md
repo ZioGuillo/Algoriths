@@ -18,17 +18,17 @@ I feel it is largest source for algorithms which you can visualize. Its pretty c
 Coming back to categorizing algorithms into 10 broad categories...phew...now this will take time.
 
 ## 1: Sorting Algorithms
-Sorting Algorithm - [Sorting Algorithm - Bubble Sort](http://www.ideserve.co.in/learn/bubble-sort)
+[Sorting Algorithm - Bubble Sort](http://www.ideserve.co.in/learn/bubble-sort)
 
-Sorting Algorithm - [Sorting Algorithm - Selection Sort](http://www.ideserve.co.in/learn/selection-sort)
+[Sorting Algorithm - Selection Sort](http://www.ideserve.co.in/learn/selection-sort)
 
-Sorting Algorithm - [Sorting Algorithm - Insertion Sort](http://www.ideserve.co.in/learn/insertion-sort)
+[Sorting Algorithm - Insertion Sort](http://www.ideserve.co.in/learn/insertion-sort)
 
-Sorting Algorithm - [Sorting Algorithm - Heap Sort](http://www.ideserve.co.in/learn/heap-sort)
+[Sorting Algorithm - Heap Sort](http://www.ideserve.co.in/learn/heap-sort)
 
-Sorting Algorithm - [Sorting Algorithm - Merge Sort](http://www.ideserve.co.in/learn/merge-sort)
+[Sorting Algorithm - Merge Sort](http://www.ideserve.co.in/learn/merge-sort)
 
-Pancake Sorting [Pancake Sorting](http://www.ideserve.co.in/learn/pancake-sorting)
+[Pancake Sorting](http://www.ideserve.co.in/learn/pancake-sorting)
 
 
 ## 2: Algorithms on Linked Lists
