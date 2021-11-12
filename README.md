@@ -32,63 +32,116 @@ Pancake Sorting [Pancake Sorting](http://www.ideserve.co.in/learn/pancake-sortin
 
 ## 2: Algorithms on Linked Lists
 [Reverse a Linked List - Iterative](http://www.ideserve.co.in/learn/reverse-a-linked-list-iterative)
+
 [Reverse a Linked List - Recursive](http://www.ideserve.co.in/learn/reverse-a-linked-list-recursive)
+
 [Merge two sorted linked lists](http://www.ideserve.co.in/learn/merge-two-sorted-linked-lists)
+
 [Find intersection of two Linked Lists](http://www.ideserve.co.in/learn/find-intersection-of-two-linked-lists)
+
 [Find intersection of two Linked Lists - O(m + n) Time Complexity and O(1) Space Complexity](http://www.ideserve.co.in/learn/find-intersection-of-two-linked-lists-constant-space)
+
 [Detect a loop in a linked list and find the node where the loop starts](http://www.ideserve.co.in/learn/detect-a-loop-in-a-linked-list)
+
 [Convert a binary tree to doubly linked list](http://www.ideserve.co.in/learn/convert-a-binary-tree-to-doubly-linked-list)
+
 [Convert a sorted Doubly Linked List to Balanced Binary Search Tree](http://www.ideserve.co.in/learn/convert-a-sorted-doubly-linked-list-to-balanced-binary-search-tree-bst)
+
 [LRU Cache Implementation](http://www.ideserve.co.in/learn/lru-cache-implementation)
+
 
 ## 3: Algorithms on  Arrays
 
 [Count frequencies of array elements in range 1 to n](http://www.ideserve.co.in/learn/count-frequencies-of-array-elements)
+
 [Find all permutations of a String](http://www.ideserve.co.in/learn/all-permutations-of-a-string)
+
 [Binary Search in a Sorted Array](http://www.ideserve.co.in/learn/binary-search-in-a-sorted-array)
+
 [Leaders in an array](http://www.ideserve.co.in/learn/leaders-in-an-array)
+
 [Find a Peak Element in an array](http://www.ideserve.co.in/learn/find-a-peak-element-in-an-array)
+
 [Find pivot in a sorted rotated array](http://www.ideserve.co.in/learn/find-pivot-in-a-sorted-rotated-array)
+
 [Find an element in a sorted rotated array](http://www.ideserve.co.in/learn/find-an-element-in-a-sorted-rotated-array)
+
 [Find element in sorted rotated array without finding pivot](http://www.ideserve.co.in/learn/find-an-element-in-a-sorted-rotated-array-without-finding-pivot)
+
 [Find duplicates in an integer array](http://www.ideserve.co.in/learn/find-duplicates-in-an-array)
+
 [Maximum average subarray](http://www.ideserve.co.in/learn/maximum-average-subarray)
+
 [Maximum subarray sum](http://www.ideserve.co.in/learn/maximum-subarray-sum)
+
 [Next greater element in an array](http://www.ideserve.co.in/learn/next-great-element-in-an-array)
+
 [Fibonacci Number](http://www.ideserve.co.in/learn/nth-fibonacci-number)
+
 [Rotate an Array](http://www.ideserve.co.in/learn/rotate-an-array)
+
 [Find Majority Element in an Array](http://www.ideserve.co.in/learn/find-majority-element-in-an-array)
+
 [Find median of two sorted arrays](http://www.ideserve.co.in/learn/find-median-of-two-sorted-arrays)
+
 [First non-repeating character in a string](http://www.ideserve.co.in/learn/first-non-repeating-character-in-a-string)
+
 [Re-arrange elements in an array to put positive and negative elements in alternate order](http://www.ideserve.co.in/learn/re-arrange-elements-to-put-positive-negative-elements-in-alternate-order)
+
 [Find the next greater number using same digits](http://www.ideserve.co.in/learn/next-greater-number-using-same-digits)
+
 [Longest Substring with non-Repeating Characters](http://www.ideserve.co.in/learn/longest-substring-with-non-repeating-characters)
+
 [Given an array with all distinct elements, find the length of the longest sub-array which has elements(not in any particular order) that could form a contiguous sequence](http://www.ideserve.co.in/learn/length-longest-sub-array-with-elements-contiguous-sequence)
+
 [Find minimum cost path in a matrix](http://www.ideserve.co.in/learn/minimum-cost-path)
+
 [Find the length of longest increasing subsequence in an array](http://www.ideserve.co.in/learn/longest-increasing-subsequence)
+
 [Find the longest increasing subsequence in an array O(n logn)](http://www.ideserve.co.in/learn/longest-increasing-subsequence-nlogn)
+
 [Find the length of longest bitonic subsequence in an array](http://www.ideserve.co.in/learn/length-of-longest-bitonic-subsequence-in-an-array)
+
 [Find total number of ways to make change using given set of coins](http://www.ideserve.co.in/learn/coin-change-problem-number-of-ways-to-make-change)
+
 [Minimum number of coins to make change](http://www.ideserve.co.in/learn/minimum-number-of-coins-to-make-change)
+
 [Count all possible decodings of a given digit sequence](http://www.ideserve.co.in/learn/count-possible-decodings-of-a-given-digit-sequence)
+
 [Find increasing sub-sequence of length three having maximum product](http://www.ideserve.co.in/learn/increasing-subsequence-of-length-three-for-maximum-product)
+
 [Find increasing sub-sequence of length three having maximum product | Optimized approach](http://www.ideserve.co.in/learn/increasing-subsequence-of-length-three-for-maximum-product-optimized)
+
 [Find index of 0 to replace to get longest continuous sequence of 1s](http://www.ideserve.co.in/learn/index-of-0-replacing-with-1-results-in-longest-continuous-1s-sequence)
+
 [O(n) time approach to find index of 0 to replace to get longest continuous sequence of 1s](http://www.ideserve.co.in/learn/index-of-0-replacing-with-1-results-in-longest-continuous-1s-sequence-linear-time)
+
 [Find an integer array corresponding to the string specifying increase-decrease transitions](http://www.ideserve.co.in/learn/integer-array-corresponding-to-increase-decrease-sequence)
+
 [Given an array with all distinct elements, find the length of the longest sub-array which has elements(not in any particular order) that could form a contiguous sequence](http://www.ideserve.co.in/learn/length-longest-sub-array-with-elements-contiguous-sequence)
+
 [Merge two sorted arrays without using extra space](http://www.ideserve.co.in/learn/merge-two-sorted-arrays-without-extra-space)
+
 [0-1 Knapsack Problem](http://www.ideserve.co.in/learn/dynamic-programming-0-1-knapsack-problem)
+
 [The Skyline Problem](http://www.ideserve.co.in/learn/the-skyline-problem)
+
 [Search a sorted matrix](http://www.ideserve.co.in/learn/search-a-sorted-matrix)
+
 [Buy and sell stocks - 1](http://www.ideserve.co.in/learn/buy-and-sell-stock-part-one)
+
 [Buy and sell stocks - 2](http://www.ideserve.co.in/learn/buy-and-sell-stocks-part-two)
+
 [Gold Mine Problem](http://www.ideserve.co.in/learn/gold-mine-problem)
+
 [Distribute Chocolates Problem](http://www.ideserve.co.in/learn/distribute-chocolates-problem)
+
 [Trapping Rain Water between Towers](http://www.ideserve.co.in/learn/trapping-rain-water-between-towers)
+
 [Find Minimum Length Sub Array With Sum K](http://www.ideserve.co.in/learn/find-minimum-length-sub-array-with-sum-k)
 
-##5: Algorithms on Trees
+
+## 5: Algorithms on Trees
 
 Check if a binary tree is a binary search tree (Check if a binary tree is a binary search tree)
 Check if two nodes are cousins in a Binary tree (Check if two nodes are cousins in a Binary tree)
@@ -152,7 +205,7 @@ Print top view of a binary tree (Print top view of a binary tree)
 Total number of possible Binary Search Trees with n keys (Total number of possible Binary Search Trees with n keys) 
 Given a sequence of words, group together all anagrams and print them. (Given a sequence of words, group together all anagrams and print them.)
 
-7: Algorithms on Strings
+## 7: Algorithms on Strings
 Word Break Problem (Word Break Problem)
 Reverse words in a string (Reverse words in a string) 
 Find all permutations of a String (Find all permutations of a String) 
@@ -173,7 +226,7 @@ Shortest Palindrome (Shortest Palindrome)
 The longest prefix suffix array computation in KMP pattern matching algorithm. (The longest prefix suffix array computation in KMP pattern matching algorithm.) 
 The Knuth Morris Pratt algorithm for pattern matching. (The Knuth Morris Pratt algorithm for pattern matching.) 
 
-8: Algorithms on Graphs
+## 8: Algorithms on Graphs
 Bellman-Ford Algorithm (Bellman-Ford Algorithm) 
 Dijkstra's Shortest Path algorithm (Dijkstra's Shortest Path algorithm) 
 Friend Circles Problem - Graph Theory (Friend Circles Problem - Graph Theory) 
@@ -202,4 +255,4 @@ Palindrome Min Cut (Palindrome Min Cut)
 Shortest Palindrome (Shortest Palindrome)
 Subset Sum Problem (Subset Sum Problem)Gold Mine Problem (Gold Mine Problem)
 
-##Did anybody notice something amiss? Turned out 7 categories will do for now(Considering we started with only 10 algorithms!)
+## Did anybody notice something amiss? Turned out 7 categories will do for now(Considering we started with only 10 algorithms!)
