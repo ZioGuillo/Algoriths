@@ -6,10 +6,14 @@
 
 10! In current competitive world, this question should be renamed to 100 must-know algorithms. Still, lets try to categorize the algorithms in 10 broad categories.
 
-But first, learning such a small subset(only 10!) will do no good. The more you learn, the more you will stand out from the crowd. Learning and visualizing algorithms will change the way you tackle real life situation, you will always start looking for an optimized way to do things. And that's great, that's what smart people are - LAZY, yes, they always try to do more work with minimal effort and that's optimization.
+But first, learning such a small subset(only 10!) will do no good. The more you learn, the more you will stand out from the crowd.
+
+Learning and visualizing algorithms will change the way you tackle real life situation, you will always start looking for an optimized way to do things. And that's great, that's what smart people are - LAZY, yes, they always try to do more work with minimal effort and that's optimization.
+
 Start developing algorithmic thinking by visualizing algorithms.
 
 This is what I will recommend [IDeserve](http://www.ideserve.co.in/)
+
 It's a cool platform where you can visualize the algorithms and data structures within it.
 I feel it is largest source for algorithms which you can visualize. Its pretty cool to see algorithms being executed and animated on the fly.
 
@@ -17,7 +21,10 @@ I feel it is largest source for algorithms which you can visualize. Its pretty c
 
 Coming back to categorizing algorithms into 10 broad categories...phew...now this will take time.
 
+---
+
 ## 1: Sorting Algorithms
+
 [Sorting Algorithm - Bubble Sort](http://www.ideserve.co.in/learn/bubble-sort)
 
 [Sorting Algorithm - Selection Sort](http://www.ideserve.co.in/learn/selection-sort)
@@ -30,8 +37,10 @@ Coming back to categorizing algorithms into 10 broad categories...phew...now thi
 
 [Pancake Sorting](http://www.ideserve.co.in/learn/pancake-sorting)
 
+---
 
 ## 2: Algorithms on Linked Lists
+
 [Reverse a Linked List - Iterative](http://www.ideserve.co.in/learn/reverse-a-linked-list-iterative)
 
 [Reverse a Linked List - Recursive](http://www.ideserve.co.in/learn/reverse-a-linked-list-recursive)
@@ -50,6 +59,7 @@ Coming back to categorizing algorithms into 10 broad categories...phew...now thi
 
 [LRU Cache Implementation](http://www.ideserve.co.in/learn/lru-cache-implementation)
 
+---
 
 ## 3: Algorithms on  Arrays
 
@@ -141,70 +151,133 @@ Coming back to categorizing algorithms into 10 broad categories...phew...now thi
 
 [Find Minimum Length Sub Array With Sum K](http://www.ideserve.co.in/learn/find-minimum-length-sub-array-with-sum-k)
 
+---
 
 ## 5: Algorithms on Trees
 
-Check if a binary tree is a binary search tree (Check if a binary tree is a binary search tree)
-Check if two nodes are cousins in a Binary tree (Check if two nodes are cousins in a Binary tree)
-Remove all nodes which lie on path having sum less than k (Remove all nodes which lie on path having sum less than k) 
-Binary Search tree | Insertion and Search (Binary Search tree | Insertion and Search) 
-Binary Search tree | Deletion (Binary Search tree | Deletion) 
-Binary Tree Level Order Traversal (Binary Tree Level Order Traversal) 
-Print bottom view of a binary tree (Print bottom view of a binary tree) 
-Print bottom view of a binary tree using level order traversal (Print bottom view of a binary tree using level order traversal) 
-Check if a binary tree is balanced or not (Check if a binary tree is balanced or not) 
-Check if a binary tree is sub-tree of another binary tree in space O(1) (Check if a binary tree is sub-tree of another binary tree in space O(1)) 
-Check if a binary tree is sub-tree of another binary tree in time O(n) (Check if a binary tree is sub-tree of another binary tree in time O(n))
-Check if all internal nodes of BST have only one child without building tree (Check if all internal nodes of BST have only one child without building tree) 
-Check if a given binary tree is symmetric tree or not (Check if a given binary tree is symmetric tree or not) 
-Check if two binary search trees are identical given their array representations (Check if two binary search trees are identical given their array representations) 
-Check if two binary search trees are identical given their array representations | Set 2 (Check if two binary search trees are identical given their array representations | Set 2) 
-Check if the given n-ary tree is symmetric tree or not (Check if the given n-ary tree is symmetric tree or not) 
-Check if two binary trees are identical (Check if two binary trees are identical) 
-Convert a binary tree to doubly linked list (Convert a binary tree to doubly linked list) 
-Convert a sorted Doubly Linked List to Balanced Binary Search Tree (Convert a sorted Doubly Linked List to Balanced Binary Search Tree) 
-Create a balanced Binary Search Tree from a sorted array (Create a balanced Binary Search Tree from a sorted array) 
-Check whether a binary tree is complete or not (Check whether a binary tree is complete or not) 
-Check whether a binary tree is a full binary tree or not (Check whether a binary tree is a full binary tree or not) 
-Construct binary tree from inorder and postorder traversals (Construct binary tree from inorder and postorder traversals) 
-Construct binary tree from inorder and preorder traversals (Construct binary tree from inorder and preorder traversals) 
-Construct the binary tree from its parent array representation (Construct the binary tree from its parent array representation) 
-AVL tree | Basics (AVL tree | Basics)
-AVL tree | Insertion (AVL tree | Insertion)
-AVL tree | Deletion (AVL tree | Deletion)
-Convert binary tree to binary search tree (Convert binary tree to binary search tree) 
-Find depth of deepest odd level leaf node (Find depth of deepest odd level leaf node) 
-Diagonal Sum of a Binary Tree. (Diagonal Sum of a Binary Tree.) 
-Find height of the binary tree from its parent array representation (Find height of the binary tree from its parent array representation) 
-Find sum of all left leaves of a binary tree (Find sum of all left leaves of a binary tree) 
-Find floor and ceiling of an element from given dataset using binary search tree (Find floor and ceiling of an element from given dataset using binary search tree) 
-Recover a Binary Search Tree if positions of two nodes are swapped. (Recover a Binary Search Tree if positions of two nodes are swapped.) 
-In-order Successor of a Node in a Binary Tree (In-order Successor of a Node in a Binary Tree) 
-In-order Traversal of a Binary Tree (In-order Traversal of a Binary Tree) 
-Print left view of a binary tree (Print left view of a binary tree) 
-Lowest Common Ancestor of 2 nodes in a Binary Tree (Lowest Common Ancestor of 2 nodes in a Binary Tree) 
-Minimum Depth of a Binary Tree (Minimum Depth of a Binary Tree) 
-Convert a binary tree to its mirror tree (Convert a binary tree to its mirror tree) 
-Convert the given n-ary tree to its mirror image (Convert the given n-ary tree to its mirror image) 
-Trie Data Structure | Insert and search (Trie Data Structure | Insert and search)
-Trie Data Structure | Delete (Trie Data Structure | Delete)
-Pattern matching using Trie (Pattern matching using Trie)
-Longest Prefix Matching using Trie (Longest Prefix Matching using Trie) 
-Post-order Traversal of a Binary Tree (Post-order Traversal of a Binary Tree) 
-Pre-order Traversal of a Binary Tree (Pre-order Traversal of a Binary Tree) 
-Print all Root to Leaf paths of a Binary Tree (Print all Root to Leaf paths of a Binary Tree) 
-Print binary tree in vertical order (Print binary tree in vertical order) 
-Print all nodes of a binary tree that do not have sibling (Print all nodes of a binary tree that do not have sibling) 
-Remove all the half nodes from a given binary tree (Remove all the half nodes from a given binary tree) 
-Remove the nodes of binary search tree which are outside the given range (Remove the nodes of binary search tree which are outside the given range) 
-Print right view of a binary tree (Print right view of a binary tree) 
-Serialize and Deserialize a binary search tree using post order traversal (Serialize and Deserialize a binary search tree using post order traversal) 
-Serialize and Deserialize a binary search tree (Serialize and Deserialize a binary search tree) 
-Find the size of largest BST in a binary tree (Find the size of largest BST in a binary tree) 
-Print top view of a binary tree using level order traversal (Print top view of a binary tree using level order traversal) 
-Print top view of a binary tree (Print top view of a binary tree) 
-Total number of possible Binary Search Trees with n keys (Total number of possible Binary Search Trees with n keys) 
-Given a sequence of words, group together all anagrams and print them. (Given a sequence of words, group together all anagrams and print them.)
+[Check if a binary tree is a binary search tree](http://www.ideserve.co.in/learn/check-if-a-binary-tree-is-a-binary-search-tree)
+
+[Check if two nodes are cousins in a Binary tree](http://www.ideserve.co.in/learn/check-if-two-nodes-are-cousins-binary-tree)
+
+[Remove all nodes which lie on path having sum less than k](http://www.ideserve.co.in/learn/remove-all-nodes-which-lie-on-path-having-sum-less-than-k)
+
+[Binary Search tree | Insertion and Search](http://www.ideserve.co.in/learn/binary-search-tree-insertion)
+
+[Binary Search tree | Deletion](http://www.ideserve.co.in/learn/binary-search-tree-delete)
+
+[Binary Tree Level Order Traversal](http://www.ideserve.co.in/learn/binary-tree-level-order-traversal)
+
+[Print bottom view of a binary tree](http://www.ideserve.co.in/learn/bottom-view-of-a-binary-tree)
+
+[Print bottom view of a binary tree using level order traversal](http://www.ideserve.co.in/learn/bottom-view-of-a-binary-tree-using-level-order-traversal)
+
+[Check if a binary tree is balanced or not](http://www.ideserve.co.in/learn/check-if-a-binary-tree-is-balanced)
+
+[Check if a binary tree is sub-tree of another binary tree in space O(1)](http://www.ideserve.co.in/learn/check-if-a-binary-tree-is-subtree-of-another-binary-tree-space-optimized)
+
+[Check if a binary tree is sub-tree of another binary tree in time O(n)](http://www.ideserve.co.in/learn/check-if-a-binary-tree-is-subtree-of-another-binary-tree-time-optimized)
+
+[Check if all internal nodes of BST have only one child without building tree](http://www.ideserve.co.in/learn/check-if-all-internal-nodes-have-one-child-bst-without-building-tree)
+
+[Check if a given binary tree is symmetric tree or not](http://www.ideserve.co.in/learn/check-if-binary-tree-is-symmetric-tree)
+
+[Check if two binary search trees are identical given their array representations](http://www.ideserve.co.in/learn/check-if-identical-binary-search-trees-without-building-them-set-1)
+
+[Check if two binary search trees are identical given their array representations | Set 2](http://www.ideserve.co.in/learn/check-if-identical-binary-search-trees-without-building-them-set-2)
+
+[Check if the given n-ary tree is symmetric tree or not](http://www.ideserve.co.in/learn/check-if-n-ary-tree-is-symmetric-tree)
+
+[Check if two binary trees are identical](http://www.ideserve.co.in/learn/check-if-two-binary-trees-are-identical)
+
+[Convert a binary tree to doubly linked list](http://www.ideserve.co.in/learn/convert-a-binary-tree-to-doubly-linked-list)
+
+[Convert a sorted Doubly Linked List to Balanced Binary Search Tree](http://www.ideserve.co.in/learn/convert-a-sorted-doubly-linked-list-to-balanced-binary-search-tree-bst)
+
+[Create a balanced Binary Search Tree from a sorted array](http://www.ideserve.co.in/learn/create-a-balanced-bst-from-a-sorted-array)
+
+[Check whether a binary tree is complete or not](http://www.ideserve.co.in/learn/check-whether-binary-tree-is-complete-tree-or-not)
+
+[Check whether a binary tree is a full binary tree or not](http://www.ideserve.co.in/learn/check-whether-binary-tree-is-full-binary-tree-or-not)
+
+[Construct binary tree from inorder and postorder traversals](http://www.ideserve.co.in/learn/construct-binary-tree-from-inorder-and-postorder-traversals)
+
+[Construct binary tree from inorder and preorder traversals](http://www.ideserve.co.in/learn/construct-binary-tree-from-inorder-and-preorder-traversals)
+
+[Construct the binary tree from its parent array representation](http://www.ideserve.co.in/learn/construct-binary-tree-from-parent-array)
+
+[AVL tree | Basics](http://www.ideserve.co.in/learn/avl-tree)
+
+[AVL tree | Insertion](http://www.ideserve.co.in/learn/avl-tree-insertion)
+
+[AVL tree | Deletion](http://www.ideserve.co.in/learn/avl-tree-deletion)
+
+[Convert binary tree to binary search tree](http://www.ideserve.co.in/learn/convert-binary-tree-to-binary-search-tree)
+
+[Find depth of deepest odd level leaf node](http://www.ideserve.co.in/learn/depth-of-deepest-odd-level-leaf-node)
+
+[Diagonal Sum of a Binary Tree](http://www.ideserve.co.in/learn/diagonal-sum-of-a-binary-tree)
+
+[Find height of the binary tree from its parent array representation](http://www.ideserve.co.in/learn/find-height-of-binary-tree-from-parent-array)
+
+[Find sum of all left leaves of a binary tree ](http://www.ideserve.co.in/learn/find-sum-of-all-left-leaves-binary-tree)
+
+[Find floor and ceiling of an element from given dataset using binary search tree](http://www.ideserve.co.in/learn/floor-ceiling-using-binary-search-tree)
+
+[Recover a Binary Search Tree if positions of two nodes are swapped](http://www.ideserve.co.in/learn/how-to-recover-a-binary-search-tree-if-two-nodes-are-swapped)
+
+[In-order Successor of a Node in a Binary Tree](http://www.ideserve.co.in/learn/inorder-successor-of-a-node-in-a-binary-tree)
+
+[In-order Traversal of a Binary Tree](http://www.ideserve.co.in/learn/inorder-traversal-of-a-binary-tree)
+
+[Print left view of a binary tree](http://www.ideserve.co.in/learn/left-view-of-a-binary-tree)
+
+[Lowest Common Ancestor of 2 nodes in a Binary Tree](http://www.ideserve.co.in/learn/lowest-common-ancestor-binary-tree)
+
+[Minimum Depth of a Binary Tree](http://www.ideserve.co.in/learn/minimum-depth-of-a-binary-tree)
+
+[Convert a binary tree to its mirror tree](http://www.ideserve.co.in/learn/mirror-a-tree)
+
+[Convert the given n-ary tree to its mirror image](http://www.ideserve.co.in/learn/mirror-of-n-ary-tree)
+
+[Trie Data Structure | Insert and search](http://www.ideserve.co.in/learn/trie-insert-and-search)
+
+[Trie Data Structure | Delete](http://www.ideserve.co.in/learn/trie-delete)
+
+[Pattern matching using Trie](http://www.ideserve.co.in/learn/pattern-matching-using-trie)
+
+[Longest Prefix Matching using Trie](http://www.ideserve.co.in/learn/longest-prefix-match-using-trie)
+
+[Post-order Traversal of a Binary Tree](http://www.ideserve.co.in/learn/postorder-traversal-of-a-binary-tree)
+
+[Pre-order Traversal of a Binary Tree](http://www.ideserve.co.in/learn/preorder-traversal-of-a-binary-tree)
+
+[Print all Root to Leaf paths of a Binary Tree](http://www.ideserve.co.in/learn/print-all-root-to-leaf-paths-of-a-binary-tree)
+
+[Print binary tree in vertical order](http://www.ideserve.co.in/learn/print-binary-tree-vertical-order)
+
+[Print all nodes of a binary tree that do not have sibling](http://www.ideserve.co.in/learn/print-nodes-of-binary-tree-without-sibling)
+
+[Remove all the half nodes from a given binary tree](http://www.ideserve.co.in/learn/remove-all-half-nodes-binary-tree)
+
+[Remove the nodes of binary search tree which are outside the given range](http://www.ideserve.co.in/learn/remove-out-of-range-bst-nodes)
+
+[Print right view of a binary tree](http://www.ideserve.co.in/learn/right-view-of-a-binary-tree)
+
+[Serialize and Deserialize a binary search tree using post order traversal](http://www.ideserve.co.in/learn/serialize-deserialize-binary-search-tree-using-post-order-traversal)
+
+[Serialize and Deserialize a binary search tree](http://www.ideserve.co.in/learn/serialize-deserialize-binary-search-tree)
+
+[Find the size of largest BST in a binary tree](http://www.ideserve.co.in/learn/size-of-largest-bst-in-binary-tree)
+
+[Print top view of a binary tree using level order traversal](http://www.ideserve.co.in/learn/top-view-of-a-binary-tree-using-level-order-traversal)
+
+[Print top view of a binary tree](http://www.ideserve.co.in/learn/top-view-of-a-binary-tree)
+
+[Total number of possible Binary Search Trees with n keys](http://www.ideserve.co.in/learn/total-number-of-possible-binary-search-trees-with-n-keys)
+
+[Given a sequence of words, group together all anagrams and print them](http://www.ideserve.co.in/learn/anagram-grouping-in-a-sequence-using-trie)
+
+---
 
 ## 7: Algorithms on Strings
 Word Break Problem (Word Break Problem)
@@ -233,7 +306,7 @@ Dijkstra's Shortest Path algorithm (Dijkstra's Shortest Path algorithm)
 Friend Circles Problem - Graph Theory (Friend Circles Problem - Graph Theory) 
 Topological Sorting of a Directed Acyclic Graph. (Topological Sorting of a Directed Acyclic Graph.)
 
-10: Dynamic Programming Algorithms
+## 10: Dynamic Programming Algorithms
 Word Break Problem (Word Break Problem)
 Find minimum cost path in a matrix (Find minimum cost path in a matrix)
 Maximum subarray sum (Maximum subarray sum)
@@ -256,4 +329,6 @@ Palindrome Min Cut (Palindrome Min Cut)
 Shortest Palindrome (Shortest Palindrome)
 Subset Sum Problem (Subset Sum Problem)Gold Mine Problem (Gold Mine Problem)
 
-## Did anybody notice something amiss? Turned out 7 categories will do for now(Considering we started with only 10 algorithms!)
+---
+
+## Did anybody notice something amiss? Turned out 7 categories will do for now (Considering we started with only 10 algorithms!)
