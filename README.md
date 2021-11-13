@@ -280,55 +280,107 @@ Coming back to categorizing algorithms into 10 broad categories...phew...now thi
 ---
 
 ## 7: Algorithms on Strings
-Word Break Problem (Word Break Problem)
-Reverse words in a string (Reverse words in a string) 
-Find all permutations of a String (Find all permutations of a String) 
-Find minimum edit distance between given two strings (Find minimum edit distance between given two strings) 
-To print maximum number of As using given four keys. (To print maximum number of As using given four keys.) 
-Check balanced parentheses in a string (Check balanced parentheses in a string) 
-Distinct binary strings of length n with no consecutive 1s (Distinct binary strings of length n with no consecutive 1s) 
-Finding 10 letter repeated DNA sequences. (Finding 10 letter repeated DNA sequences.) 
-First non-repeating character in a string (First non-repeating character in a string) 
-Group all anagrams together from a given array of strings | Set 1 (Group all anagrams together from a given array of strings | Set 1) 
-Longest Common Subsequence (Longest Common Subsequence) 
-Longest Common Substring (Longest Common Substring) 
-Longest Palindromic Subsequence (Longest Palindromic Subsequence) 
-Longest Palindromic Substring (Longest Palindromic Substring) 
-Longest Substring with non-Repeating Characters (Longest Substring with non-Repeating Characters) 
-Palindrome Min Cut (Palindrome Min Cut) 
-Shortest Palindrome (Shortest Palindrome) 
-The longest prefix suffix array computation in KMP pattern matching algorithm. (The longest prefix suffix array computation in KMP pattern matching algorithm.) 
-The Knuth Morris Pratt algorithm for pattern matching. (The Knuth Morris Pratt algorithm for pattern matching.) 
 
-## 8: Algorithms on Graphs
-Bellman-Ford Algorithm (Bellman-Ford Algorithm) 
-Dijkstra's Shortest Path algorithm (Dijkstra's Shortest Path algorithm) 
-Friend Circles Problem - Graph Theory (Friend Circles Problem - Graph Theory) 
-Topological Sorting of a Directed Acyclic Graph. (Topological Sorting of a Directed Acyclic Graph.)
+[Word Break Problem](http://www.ideserve.co.in/learn/word-break-problem)
 
-## 10: Dynamic Programming Algorithms
-Word Break Problem (Word Break Problem)
-Find minimum cost path in a matrix (Find minimum cost path in a matrix)
-Maximum subarray sum (Maximum subarray sum)
-Find total number of ways to make change using given set of coins (Find total number of ways to make change using given set of coins)
-Minimum number of coins to make change (Minimum number of coins to make change)
-Find the length of longest increasing subsequence in an array (Find the length of longest increasing subsequence in an array)
-Find the length of longest bitonic subsequence in an array (Find the length of longest bitonic subsequence in an array)
-Count all possible decodings of a given digit sequence (Count all possible decodings of a given digit sequence)
-To print maximum number of As using given four keys. (To print maximum number of As using given four keys.)
-Find minimum edit distance between given two strings (Find minimum edit distance between given two strings)
-Total number of possible Binary Search Trees with n keys (Total number of possible Binary Search Trees with n keys)
-0-1 Knapsack Problem (0-1 Knapsack Problem)
-Longest Common Subsequence (Longest Common Subsequence)
-Longest Common Substring (Longest Common Substring)
-Longest Increasing Subsequence O(n logn) (Longest Increasing Subsequence O(n logn))
-Longest Palindromic Subsequence (Longest Palindromic Subsequence)
-Longest Palindromic Substring (Longest Palindromic Substring)
-Fibonacci Number (Fibonacci Number)
-Palindrome Min Cut (Palindrome Min Cut)
-Shortest Palindrome (Shortest Palindrome)
-Subset Sum Problem (Subset Sum Problem)Gold Mine Problem (Gold Mine Problem)
+[Reverse words in a string](http://www.ideserve.co.in/learn/reverse-words-in-a-string)
+
+[Find all permutations of a String](http://www.ideserve.co.in/learn/all-permutations-of-a-string)
+
+[Find minimum edit distance between given two strings](http://www.ideserve.co.in/learn/edit-distance-dynamic-programming)
+
+[To print maximum number of As using given four keys](http://www.ideserve.co.in/learn/how-to-print-maximum-number-of-a-using-given-four-keys)
+
+[Check balanced parentheses in a string](http://www.ideserve.co.in/learn/check-balanced-parentheses-in-a-string)
+
+[Distinct binary strings of length n with no consecutive 1s](http://www.ideserve.co.in/learn/distinct-binary-strings-of-length-n-with-no-consecutive-1s)
+
+[Finding 10 letter repeated DNA sequences](http://www.ideserve.co.in/learn/find-10-letter-repeated-DNA-sequences)
+
+[First non-repeating character in a string](http://www.ideserve.co.in/learn/first-non-repeating-character-in-a-string)
+
+[Group all anagrams together from a given array of strings | Set 1](http://www.ideserve.co.in/learn/group-all-anagrams-together-set-1)
+
+[Longest Common Subsequence](http://www.ideserve.co.in/learn/longest-common-subsequence)
+
+[Longest Common Substring](http://www.ideserve.co.in/learn/longest-common-substring)
+
+[Longest Palindromic Subsequence](http://www.ideserve.co.in/learn/longest-palindromic-subsequence)
+
+[Longest Palindromic Substring](http://www.ideserve.co.in/learn/longest-palindromic-substring)
+
+[Longest Substring with non-Repeating Characters](http://www.ideserve.co.in/learn/longest-substring-with-non-repeating-characters)
+
+[Palindrome Min Cut](http://www.ideserve.co.in/learn/palindrome-min-cut)
+
+[Shortest Palindrome](http://www.ideserve.co.in/learn/shortest-palindrome)
+
+[The longest prefix suffix array computation in KMP pattern matching algorithm](http://www.ideserve.co.in/learn/the-longest-prefix-suffix-array-computation)
+
+[The Knuth Morris Pratt algorithm for pattern matching](http://www.ideserve.co.in/learn/the-Knuth-Morris-Pratt-algorithm)
 
 ---
 
-## Did anybody notice something amiss? Turned out 7 categories will do for now (Considering we started with only 10 algorithms!)
+## 8: Algorithms on Graphs
+
+[Bellman-Ford Algorithm](http://www.ideserve.co.in/learn/bellman-ford-shortest-path-algorithm)
+
+[Dijkstra's Shortest Path algorithm](http://www.ideserve.co.in/learn/dijkstra-shortest-path-algorithm)
+
+[Friend Circles Problem - Graph Theory](http://www.ideserve.co.in/learn/friend-circles-graph)
+
+[Topological Sorting of a Directed Acyclic Graph](http://www.ideserve.co.in/learn/topological-sorting-of-directed-acyclic-graph)
+
+---
+
+## 10: Dynamic Programming Algorithms
+
+[Word Break Problem](http://www.ideserve.co.in/learn/word-break-problem)
+
+[Find minimum cost path in a matrix](http://www.ideserve.co.in/learn/minimum-cost-path)
+
+[Maximum subarray sum](http://www.ideserve.co.in/learn/maximum-subarray-sum)
+
+[Find total number of ways to make change using given set of coins](http://www.ideserve.co.in/learn/coin-change-problem-number-of-ways-to-make-change)
+
+[Minimum number of coins to make change](http://www.ideserve.co.in/learn/minimum-number-of-coins-to-make-change)
+
+[Find the length of longest increasing subsequence in an array](http://www.ideserve.co.in/learn/longest-increasing-subsequence)
+
+[Find the length of longest bitonic subsequence in an array](http://www.ideserve.co.in/learn/length-of-longest-bitonic-subsequence-in-an-array)
+
+[Count all possible decodings of a given digit sequence](http://www.ideserve.co.in/learn/count-possible-decodings-of-a-given-digit-sequence)
+
+[To print maximum number of As using given four keys](http://www.ideserve.co.in/learn/how-to-print-maximum-number-of-a-using-given-four-keys)
+
+[Find minimum edit distance between given two strings](http://www.ideserve.co.in/learn/edit-distance-dynamic-programming)
+
+[Total number of possible Binary Search Trees with n keys](http://www.ideserve.co.in/learn/total-number-of-possible-binary-search-trees-with-n-keys)
+
+[0-1 Knapsack Problem](http://www.ideserve.co.in/learn/dynamic-programming-0-1-knapsack-problem)
+
+[Longest Common Subsequence](http://www.ideserve.co.in/learn/longest-common-subsequence)
+
+[Longest Common Substring](http://www.ideserve.co.in/learn/longest-common-substring)
+
+[Longest Increasing Subsequence O(n logn)](http://www.ideserve.co.in/learn/longest-increasing-subsequence-nlogn)
+
+[Longest Palindromic Subsequence](http://www.ideserve.co.in/learn/longest-palindromic-subsequence)
+
+[Longest Palindromic Substring](http://www.ideserve.co.in/learn/longest-palindromic-substring)
+
+[Fibonacci Number](http://www.ideserve.co.in/learn/nth-fibonacci-number)
+
+[Palindrome Min Cut](http://www.ideserve.co.in/learn/palindrome-min-cut)
+
+[Shortest Palindrome](http://www.ideserve.co.in/learn/shortest-palindrome)
+
+[Subset Sum Problem](http://www.ideserve.co.in/learn/subset-sum-dynamic-programming)
+
+[Gold Mine Problem](http://www.ideserve.co.in/learn/gold-mine-problem)
+
+---
+
+## Did anybody notice something amiss? Turned out 7 categories will do for now
+
+### (Considering we started with only 10 algorithms!)
