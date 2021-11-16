@@ -1,6 +1,6 @@
 # The 10 must-know algorithms and data structures for a software engineer
 
-![img01](https://github.com/ZioGuillo/Algoriths/blob/master/img/img01.jpeg)
+![img01](img/img01.jpeg)
 
 ***
 
@@ -17,7 +17,7 @@ This is what I will recommend [IDeserve](http://www.ideserve.co.in/)
 It's a cool platform where you can visualize the algorithms and data structures within it.
 I feel it is largest source for algorithms which you can visualize. Its pretty cool to see algorithms being executed and animated on the fly.
 
-![img02](https://github.com/ZioGuillo/Algoriths/blob/master/img/img02.jpeg)
+![img02](img/img02.jpeg)
 
 Coming back to categorizing algorithms into 10 broad categories...phew...now this will take time.
 
@@ -381,6 +381,28 @@ Coming back to categorizing algorithms into 10 broad categories...phew...now thi
 
 ---
 
-## Did anybody notice something amiss? Turned out 7 categories will do for now
+#### Did anybody notice something amiss? Turned out 7 categories will do for now
 
-### (Considering we started with only 10 algorithms!)
+#### (Considering we started with only 10 algorithms!)
+
+---
+
+## Sorting Algorithms Time & Space Complexity
+
+
+|   Algorithms   |  |     Time Complexity    |       | Space Complexity |
+|:--------------:|:---------------:|:-------:|:-----:|:----------------:|
+|                |       Best      | Average | Worst |       Worst      |
+| QuickSort      |                 |         |       |                  |
+| MergeSort      |                 |         |       |                  |
+| TimSort        |                 |         |       |                  |
+| HeapSort       |                 |         |       |                  |
+| BubbleSort     |                 |         |       |                  |
+| Insertion Sort |                 |         |       |                  |
+| Selection Sort |                 |         |       |                  |
+| Tree Sort      |                 |         |       |                  |
+| Shell Sort     |                 |         |       |                  |
+| Bucket Sort    |                 |         |       |                  |
+| Radix Sort     |                 |         |       |                  |
+| Counting Sort  |                 |         |       |                  |
+| CubeSort       |                 |         |       |                  |
