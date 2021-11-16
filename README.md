@@ -393,16 +393,16 @@ Coming back to categorizing algorithms into 10 broad categories...phew...now thi
 |   Algorithms   |  |     Time Complexity    |       | Space Complexity |
 |:--------------:|:---------------:|:-------:|:-----:|:----------------:|
 |                |       Best      | Average | Worst |       Worst      |
-| QuickSort      |                 |         |       |                  |
+| [QuickSort](https://www.geeksforgeeks.org/quick-sort/)      |                 |         |       |                  |
 | [Merge Sort](http://www.ideserve.co.in/learn/merge-sort)      |                 |         |       |                  |
-| TimSort        |                 |         |       |                  |
+| [TimSort](https://www.geeksforgeeks.org/timsort/)        |                 |         |       |                  |
 | [Heap Sort](http://www.ideserve.co.in/learn/heap-sort)       |                 |         |       |                  |
 | [Bubble Sort](http://www.ideserve.co.in/learn/bubble-sort)     |                 |         |       |                  |
 | [Insertion Sort](http://www.ideserve.co.in/learn/insertion-sort) |                 |         |       |                  |
 | [Selection Sort](http://www.ideserve.co.in/learn/selection-sort) |                 |         |       |                  |
-| Tree Sort      |                 |         |       |                  |
-| Shell Sort     |                 |         |       |                  |
-| Bucket Sort    |                 |         |       |                  |
-| Radix Sort     |                 |         |       |                  |
-| Counting Sort  |                 |         |       |                  |
-| CubeSort       |                 |         |       |                  |
+| [Tree Sort](https://www.geeksforgeeks.org/tree-sort/)      |                 |         |       |                  |
+| [Shell Sort](https://www.geeksforgeeks.org/shellsort/)     |                 |         |       |                  |
+| [Bucket Sort](https://www.geeksforgeeks.org/bucket-sort-2/)    |                 |         |       |                  |
+| [Radix Sort](https://www.geeksforgeeks.org/radix-sort/)     |                 |         |       |                  |
+| [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)  |                 |         |       |                  |
+| [CubeSort](https://link.springer.com/content/pdf/10.1007/BFb0040412.pdf)       |                 |         |       |                  |
