@@ -1,4 +1,4 @@
-# The 10 must-know algorithms and data structures for a software engineer
+# The 10 must-know algorithms and data structures for an engineer
 
 ![img01](img/img01.jpeg)
 
@@ -394,12 +394,12 @@ Coming back to categorizing algorithms into 10 broad categories...phew...now thi
 |:--------------:|:---------------:|:-------:|:-----:|:----------------:|
 |                |       Best      | Average | Worst |       Worst      |
 | QuickSort      |                 |         |       |                  |
-| MergeSort      |                 |         |       |                  |
+| [Merge Sort](http://www.ideserve.co.in/learn/merge-sort)      |                 |         |       |                  |
 | TimSort        |                 |         |       |                  |
-| HeapSort       |                 |         |       |                  |
-| BubbleSort     |                 |         |       |                  |
-| Insertion Sort |                 |         |       |                  |
-| Selection Sort |                 |         |       |                  |
+| [Heap Sort](http://www.ideserve.co.in/learn/heap-sort)       |                 |         |       |                  |
+| [Bubble Sort](http://www.ideserve.co.in/learn/bubble-sort)     |                 |         |       |                  |
+| [Insertion Sort](http://www.ideserve.co.in/learn/insertion-sort) |                 |         |       |                  |
+| [Selection Sort](http://www.ideserve.co.in/learn/selection-sort) |                 |         |       |                  |
 | Tree Sort      |                 |         |       |                  |
 | Shell Sort     |                 |         |       |                  |
 | Bucket Sort    |                 |         |       |                  |
