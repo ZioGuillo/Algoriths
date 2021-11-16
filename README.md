@@ -393,16 +393,16 @@ Coming back to categorizing algorithms into 10 broad categories...phew...now thi
 |   Algorithms   |  |     Time Complexity    |       | Space Complexity |
 |:--------------:|:---------------:|:-------:|:-----:|:----------------:|
 |                |       Best      | Average | Worst |       Worst      |
-| [QuickSort](https://www.geeksforgeeks.org/quick-sort/)                         |                 |         |       |   O(log(n)     |
-| [Merge Sort](http://www.ideserve.co.in/learn/merge-sort)                       |                 |         |       |   O(n)         |
-| [TimSort](https://www.geeksforgeeks.org/timsort/)                              |                 |         |       |   O(n)         |
-| [Heap Sort](http://www.ideserve.co.in/learn/heap-sort)                         |                 |         |       |   O(1)         |
-| [Bubble Sort](http://www.ideserve.co.in/learn/bubble-sort)                     |                 |         |       |   O(1)         |
-| [Insertion Sort](http://www.ideserve.co.in/learn/insertion-sort)               |                 |         |       |   O(1)         |
-| [Selection Sort](http://www.ideserve.co.in/learn/selection-sort)               |                 |         |       |   O(1)         |
-| [Tree Sort](https://www.geeksforgeeks.org/tree-sort/)                          |                 |         |       |   O(n)         |
-| [Shell Sort](https://www.geeksforgeeks.org/shellsort/)                         |                 |         |       |   O(1)         |
-| [Bucket Sort](https://www.geeksforgeeks.org/bucket-sort-2/)                    |                 |         |       |   O(n)         |
-| [Radix Sort](https://www.geeksforgeeks.org/radix-sort/)                        |                 |         |       |   O(n+k)       |
-| [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)                  |                 |         |       |   O(k)         |
-| [CubeSort](https://link.springer.com/content/pdf/10.1007/BFb0040412.pdf)       |                 |         |       |   O(n)         |
+| [QuickSort](https://www.geeksforgeeks.org/quick-sort/)                         |                 |         |  O(n^2)      |   O(log(n)     |
+| [Merge Sort](http://www.ideserve.co.in/learn/merge-sort)                       |                 |         |  O(nlog(n))  |   O(n)         |
+| [TimSort](https://www.geeksforgeeks.org/timsort/)                              |                 |         |  O(nlog(n))  |   O(n)         |
+| [Heap Sort](http://www.ideserve.co.in/learn/heap-sort)                         |                 |         |  O(nlog(n))  |   O(1)         |
+| [Bubble Sort](http://www.ideserve.co.in/learn/bubble-sort)                     |                 |         |  O(n^2)      |   O(1)         |
+| [Insertion Sort](http://www.ideserve.co.in/learn/insertion-sort)               |                 |         |  O(n^2)      |   O(1)         |
+| [Selection Sort](http://www.ideserve.co.in/learn/selection-sort)               |                 |         |  O(n^2)      |   O(1)         |
+| [Tree Sort](https://www.geeksforgeeks.org/tree-sort/)                          |                 |         |  O(n^2)      |   O(n)         |
+| [Shell Sort](https://www.geeksforgeeks.org/shellsort/)                         |                 |         |  O(nlog(n))^2|   O(1)         |
+| [Bucket Sort](https://www.geeksforgeeks.org/bucket-sort-2/)                    |                 |         |  O(n^2)      |   O(n)         |
+| [Radix Sort](https://www.geeksforgeeks.org/radix-sort/)                        |                 |         |  O(nk)       |   O(n+k)       |
+| [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)                  |                 |         |  O(n+k)      |   O(k)         |
+| [CubeSort](https://link.springer.com/content/pdf/10.1007/BFb0040412.pdf)       |                 |         |  O(log(n)    |   O(n)         |
